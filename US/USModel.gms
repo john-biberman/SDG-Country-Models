@@ -1,5 +1,5 @@
 $ontext
-Update: August 25, 2017
+Update: August 25, 2017 
 This is the latest version of the US SDG model developed by Prof. Sachs.
 
 So far, this model includes:
